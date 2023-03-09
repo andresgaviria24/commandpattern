@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fgaviriaocam/Projects/CommandPattern/CommandPattern/CommandPattern.csproj",
+      "projectUniqueName": "/Users/fgaviriaocam/Documents/GitHub/commandpattern/CommandPattern.csproj",
       "projectName": "CommandPattern",
-      "projectPath": "/Users/fgaviriaocam/Projects/CommandPattern/CommandPattern/CommandPattern.csproj",
+      "projectPath": "/Users/fgaviriaocam/Documents/GitHub/commandpattern/CommandPattern.csproj",
       "packagesPath": "/Users/fgaviriaocam/.nuget/packages/",
-      "outputPath": "/Users/fgaviriaocam/Projects/CommandPattern/CommandPattern/obj/",
+      "outputPath": "/Users/fgaviriaocam/Documents/GitHub/commandpattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fgaviriaocam/.nuget/NuGet/NuGet.Config"

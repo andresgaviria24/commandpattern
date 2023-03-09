@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CommandPattern
 {
-    public class RemoteControl 
+    public class Invoker
     {
         private ICommand _command;
 
